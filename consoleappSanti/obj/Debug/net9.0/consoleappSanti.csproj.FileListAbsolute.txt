@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\bin\Debug\net9.0\consoleappSanti.exe
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\bin\Debug\net9.0\consoleappSanti.deps.json
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\bin\Debug\net9.0\consoleappSanti.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\bin\Debug\net9.0\consoleappSanti.dll
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\bin\Debug\net9.0\consoleappSanti.pdb
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\consoleappSanti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\consoleappSanti.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\consoleappSanti.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\consoleappSanti.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\consoleappSanti.sourcelink.json
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\consoleappSanti.dll
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\refint\consoleappSanti.dll
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\consoleappSanti.pdb
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\consoleappSanti.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Pruebas2.0\consoleappSanti\obj\Debug\net9.0\ref\consoleappSanti.dll
