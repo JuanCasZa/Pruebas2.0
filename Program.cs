@@ -1,6 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hola, mundo!");
 
+Entrenadores entrenador = new Personas();
+entrenador.nombre = "Juan";
+entrenador.cedula = ""
+
 public class Personas
 {
     public String nombre;
@@ -28,3 +32,4 @@ public class Clientes : Personas
     public char tipoDeMembresia;
 
 }
+
