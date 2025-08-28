@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hola, mundo!");
 
 public class Personas
 {
@@ -17,6 +17,14 @@ public class Entrenadores : Personas
     public int experiencia;
 }
 
-public class Profesiones {
+public class Profesiones
+{
     public String titulo;
+}
+
+public class Clientes : Personas
+{
+    public bool estadoMembresia;
+    public char tipoDeMembresia;
+
 }
