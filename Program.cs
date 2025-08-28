@@ -3,7 +3,7 @@ Console.WriteLine("Hola, mundo!");
 
 Entrenadores entrenador = new Personas();
 entrenador.nombre = "Juan";
-entrenador.cedula = ""
+entrenador.cedula = "1000194984";
 
 public class Personas
 {
